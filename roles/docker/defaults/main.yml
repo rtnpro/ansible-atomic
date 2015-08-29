@@ -1,3 +1,0 @@
----
-docker_storage_dev: /dev/vdb
-docker_storage_volgroup: docker-vg
