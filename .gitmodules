@@ -1,3 +1,9 @@
 [submodule "roles/docker"]
 	path = roles/docker
 	url = https://github.com/rtnpro/ansible-centos-7-docker-role.git
+[submodule "roles/kubernetes"]
+	path = roles/kubernetes
+	url = https://github.com/rtnpro/ansible-centos-7-kubernetes-role.git
+[submodule "roles/atomic"]
+	path = roles/atomic
+	url = https://github.com/rtnpro/ansible-centos-7-atomic-role.git

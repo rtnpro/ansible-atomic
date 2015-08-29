@@ -1,4 +1,0 @@
----
-- name: Install atomic
-  yum: name=atomic state=present
-  sudo: yes
